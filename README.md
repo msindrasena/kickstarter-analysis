@@ -1,6 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends.
 
+![](Images/Outcomes%20Based%20On%20Goal.png)
+![](Images/Outcomes%20Based%20On%20Launch%20Date.png)
+
 -If the goal amount is less than $5,000 for the Kickstarter, there is a high chance of the project being successful (over 70%).
 
 -If the goal amount is $45,000 or more for the Kickstarter, the project has a very high chance of failing.
